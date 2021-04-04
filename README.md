@@ -1,2 +1,2 @@
 # TinDog-Website
-A website created for easy dog matches.
+Made a clone of TinDog website created for easy dog matches, alongside Angela Yu.
